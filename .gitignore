@@ -1,0 +1,5 @@
+ecg
+*.dSYM/
+results_*.csv
+data/ecg_t3_03.txt
+.DS_Store
